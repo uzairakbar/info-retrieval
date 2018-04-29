@@ -20,7 +20,7 @@ def angle_between(x1, x2):
     x1_norm = x1/np.linalg.norm(x1)
     x2_norm = x2/np.linalg.norm(x2)
 
-    return np.arccos(np.clip(np.dot(x1_norm, x2_norm), -1.0, 1.0))
+    return np.arccos(np.clip(np.dot(x1_norm, x2_norm), -1.0 1.0))
 
 
 def calculate_angles(d=2, n=100):
