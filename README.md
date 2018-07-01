@@ -17,8 +17,8 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 
 ## Datasets
 
-* ["yaleBfaces.zip"](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_2)\* (Assignment 2)
-* ["mnist_train.zip"](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_3)\*\* (Assignment 3)
+* [``yaleBfaces.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_2) \* (Assignment 2)
+* [``mnist_train.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_3) \*\* (Assignment 3)
 
 \* source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
 \*\* source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
