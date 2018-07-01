@@ -1,6 +1,6 @@
 # Information Retrieval in High Dimensional Data
 
-This project lists all of the deliverables for the [TUM Information Retrieval in High Dimensional Data class](http://www.ldv.ei.tum.de/en/lehre/information-retrieval-in-high-dimensional-data/) (Winter Semester 2018). Below is the outline and links to demo IPython Notebooks for each deliverable.
+This project lists all of the deliverables for the [TUM Information Retrieval in High Dimensional Data class](http://www.ldv.ei.tum.de/de/lehre/information-retrieval-in-high-dimensional-data/) (Summer Semester 2018). Below is the outline and links to demo IPython Notebooks for each deliverable.
 
 ## Deliverables
 ### Assignments
@@ -12,6 +12,7 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ### Poster Presentation
 
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://gitlab.lrz.de/ga78xax/InformationRetrieval/blob/master/poster_session/poster_1.0.pdf)\*
+
 \* paper link: [arxiv.org/abs/1607.06520](https://arxiv.org/abs/1607.06520)
 
 ## Versioning
