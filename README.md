@@ -15,6 +15,14 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 
 \* paper link: [arxiv.org/abs/1607.06520](https://arxiv.org/abs/1607.06520)
 
+## Datasets
+
+* ["yaleBfaces.zip"](https://gitlab.lrz.de/ga78xax/InformationRetrieval/blob/master/datasets/assignment_2/)\* (Assignment 2)
+* ["mnist_train.zip"](https://gitlab.lrz.de/ga78xax/InformationRetrieval/blob/master/datasets/assignment_3/)\*\* (Assignment 3)
+
+\* source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
+\*\* source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+
 ## Versioning
 
 We version the project with each new deliverable. For the versions available, see the [tags on this repository](https://gitlab.lrz.de/ga78xax/InformationRetrieval/tags).
