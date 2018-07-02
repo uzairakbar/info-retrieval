@@ -9,19 +9,34 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 * [Assignment 2: Principal Component Analysis (PCA)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
 * [Assignment 3: The Kernel Trick and Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
 
+### Laboratories
+
+* [Lab 01: NumPy Basics](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_01/lab01_solution.ipynb)
+* [Lab 02: Statistical Decision Making & k-Nearest Neighbours](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_02/lab02_solution.ipynb)
+* [Lab 03: Word Embeddings & Logistic Regression](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_solution.ipynb)
+* [Lab 04: Logistic Regression](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_04/lab04_solution.ipynb)
+* [Lab 4.5: Projections, EVD & SVD](#)
+* [Lab 05: Principal Component Analysis (PCA)](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_05/lab05_solution.ipynb)
+* [Lab 06: Neural Networks](#)
+* [Lab 07: CVXOPT & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_solution.ipynb)
+
 ### Poster Presentation
 
-* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://github.com/uzairakbar/info-retrieval/blob/master/poster_session/poster_1.0.pdf)\*
+* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://github.com/uzairakbar/info-retrieval/blob/master/poster_session/poster_1.0.pdf) \*
 
 \* paper link: [arxiv.org/abs/1607.06520](https://arxiv.org/abs/1607.06520)
 
 ## Datasets
 
-* [``yaleBfaces.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_2) \* (Assignment 2)
-* [``mnist_train.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/assignment_3) \*\* (Assignment 3)
+* [``yaleBfaces.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/yale_face_database_b) <sup>1</sup> (assignment 2)
+* [``mnist.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mnist_database) <sup>2</sup> (assignment 3, lab 2, lab 5)
+* [``imdbSentiment.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/imdb_sentiment_dataset) <sup>3</sup> (lab 3)
+* [``visTex.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mit_vision_texture_database) <sup>4</sup> (lab 5)
 
-\* source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
-\*\* source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+<sup>1</sup> source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
+<sup>2</sup> source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+<sup>3</sup> source: [http://ai.stanford.edu/~amaas/data/sentiment/](http://ai.stanford.edu/~amaas/data/sentiment/)
+<sup>4</sup> source: [http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html](http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html)
 
 ## Versioning
 
