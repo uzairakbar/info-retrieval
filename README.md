@@ -38,8 +38,8 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 * [``visTex.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mit_vision_texture_database) <sup>4</sup> (lab 5)
 
 <sup>1</sup> source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
-<sup>2</sup> source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
-<sup>3</sup> source: [http://ai.stanford.edu/~amaas/data/sentiment/](http://ai.stanford.edu/~amaas/data/sentiment/)
+<sup>2</sup> source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)  
+<sup>3</sup> source: [http://ai.stanford.edu/~amaas/data/sentiment/](http://ai.stanford.edu/~amaas/data/sentiment/)  
 <sup>4</sup> source: [http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html](http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html)
 
 ## Versioning
