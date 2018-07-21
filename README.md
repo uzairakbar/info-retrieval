@@ -6,19 +6,23 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ### Assignments
 
 * [Assignment 1: Curse of Dimensionality & Statistical Decision Making](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_1/assignment1-solution.ipynb)
-* [Assignment 2: Principal Component Analysis (PCA)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
-* [Assignment 3: The Kernel Trick and Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
+* [Assignment 2: Principal Component Analysis & k-Nearest Neighbors (PCA)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
+* [Assignment 3: The Kernel Trick & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
 
 ### Laboratories
 
 * [Lab 01: NumPy Basics](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_01/lab01_solution.ipynb)
 * [Lab 02: Statistical Decision Making & k-Nearest Neighbours](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_02/lab02_solution.ipynb)
-* [Lab 03: Word Embeddings & Logistic Regression](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_solution.ipynb)
+* [Lab 03: Word Embeddings](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_solution.ipynb)
+* [Lab 3.5: Logistic Regression Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_theory_solved.pdf)
 * [Lab 04: Logistic Regression](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_04/lab04_solution.ipynb)
-* [Lab 4.5: Projections, EVD & SVD](#)
+* [Lab 4.5: Projections, EVD & SVD Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_04/lab04_interlude_solved.pdf)
 * [Lab 05: Principal Component Analysis (PCA)](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_05/lab05_solution.ipynb)
-* [Lab 06: Neural Networks](#)
-* [Lab 07: CVXOPT & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_solution.ipynb)
+* [Lab 06: Neural Networks Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_06/lab06_theory_solved.pdf)
+* [Lab 07: Convex Optimization](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_solution.ipynb)
+* [Lab 7.5: Kernel PCA Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_theory_solved.pdf)
+* [Lab 08: Support Vector Machine](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_08/lab08_solution.ipynb)
+* [Lab 8.5: Convex Optimization Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_08/lab08_theory_solved.pdf)
 
 ### Poster Presentation
 
@@ -29,8 +33,8 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ## Datasets
 
 * [``yaleBfaces.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/yale_face_database_b) <sup>1</sup> (assignment 2)
-* [``mnist.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mnist_database) <sup>2</sup> (assignment 3, lab 2, lab 5)
-* [``imdbSentiment.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/imdb_sentiment_dataset) <sup>3</sup> (lab 3)
+* [``mnist.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mnist_database) <sup>2</sup> (assignment 3, lab 2, lab 5, lab 8)
+* [``imdbSentiment.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/imdb_sentiment_dataset) <sup>3</sup> (lab 3, lab 4)
 * [``visTex.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mit_vision_texture_database) <sup>4</sup> (lab 5)
 
 <sup>1</sup> source: [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/Yale%20Face%20Database.htm)  
