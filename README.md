@@ -6,13 +6,13 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ### Assignments
 
 * [Assignment 1: Curse of Dimensionality & Statistical Decision Making](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_1/assignment1-solution.ipynb)
-* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
+* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN) (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
 * [Assignment 3: The Kernel Trick & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
 
 ### Laboratories
 
 * [Lab 01: NumPy Basics](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_01/lab01_solution.ipynb)
-* [Lab 02: Statistical Decision Making & k-Nearest Neighbours](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_02/lab02_solution.ipynb)
+* [Lab 02: Statistical Decision Making & k-Nearest Neighbors (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_02/lab02_solution.ipynb)
 * [Lab 03: Word Embeddings](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_solution.ipynb)
 * [Lab 3.5: Logistic Regression Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_03/lab03_theory_solved.pdf)
 * [Lab 04: Logistic Regression](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_04/lab04_solution.ipynb)
@@ -21,8 +21,9 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 * [Lab 06: Neural Networks Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_06/lab06_theory_solved.pdf)
 * [Lab 07: Convex Optimization](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_solution.ipynb)
 * [Lab 7.5: Kernel PCA Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_07/lab07_theory_solved.pdf)
-* [Lab 08: Support Vector Machine](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_08/lab08_solution.ipynb)
+* [Lab 08: Support Vector Machine (SVM)](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_08/lab08_solution.ipynb)
 * [Lab 8.5: Convex Optimization Theory](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_08/lab08_theory_solved.pdf)
+* [Lab 09: Linear Discriminant Analysis (LDA)](https://github.com/uzairakbar/info-retrieval/blob/master/labs/lab_09/lab09_solution.ipynb)
 
 ### Poster Presentation
 
