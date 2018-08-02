@@ -1,0 +1,3 @@
+[submodule "cheat_sheet"]
+	path = cheat_sheet
+	url = https://github.com/Wizady/Info-Retrieval-Cheat-Sheet.git
