@@ -6,7 +6,7 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ### Assignments
 
 * [Assignment 1: Curse of Dimensionality & Statistical Decision Making](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_1/assignment1-solution.ipynb)
-* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN) (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
+* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
 * [Assignment 3: The Kernel Trick & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
 
 ### Laboratories
@@ -34,7 +34,7 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ## Datasets
 
 * [``yaleBfaces.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/yale_face_database_b) <sup>1</sup> (assignment 2)
-* [``mnist.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mnist_database) <sup>2</sup> (assignment 3, lab 2, lab 5, lab 8)
+* [``mnist.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mnist_database) <sup>2</sup> (assignment 3, lab 2, lab 5, lab 8, lab 9)
 * [``imdbSentiment.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/imdb_sentiment_dataset) <sup>3</sup> (lab 3, lab 4)
 * [``visTex.zip``](https://github.com/uzairakbar/info-retrieval/tree/master/datasets/mit_vision_texture_database) <sup>4</sup> (lab 5)
 
@@ -42,6 +42,10 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 <sup>2</sup> source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)  
 <sup>3</sup> source: [http://ai.stanford.edu/~amaas/data/sentiment/](http://ai.stanford.edu/~amaas/data/sentiment/)  
 <sup>4</sup> source: [http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html](http://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html)
+
+## Additional Material
+
+* [Course Cheat Sheet](https://github.com/Wizady/Info-Retrieval-Cheat-Sheet/blob/master/Info_Retrieval_Cheat_Sheet_V1.pdf)
 
 ## Versioning
 
