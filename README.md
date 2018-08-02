@@ -5,9 +5,9 @@ This project lists all of the deliverables for the [TUM Information Retrieval in
 ## Deliverables
 ### Assignments
 
-* [Assignment 1: Curse of Dimensionality & Statistical Decision Making](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_1/assignment1-solution.ipynb)
-* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_2/assignment2-solution.ipynb)
-* [Assignment 3: The Kernel Trick & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assingments/final/assignment_3/assignment3-solution.ipynb)
+* [Assignment 1: Curse of Dimensionality & Statistical Decision Making](https://github.com/uzairakbar/info-retrieval/blob/master/assignments/final/assignment_1/assignment1-solution.ipynb)
+* [Assignment 2: Principal Component Analysis (PCA) & k-Nearest Neighbors (k-NN)](https://github.com/uzairakbar/info-retrieval/blob/master/assignments/final/assignment_2/assignment2-solution.ipynb)
+* [Assignment 3: The Kernel Trick & Kernel PCA](https://github.com/uzairakbar/info-retrieval/blob/master/assignments/final/assignment_3/assignment3-solution.ipynb)
 
 ### Laboratories
 
